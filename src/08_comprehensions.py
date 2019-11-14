@@ -25,7 +25,7 @@ print(y)
 
 a = ["foo", "bar", "baz"]
 
-y = [a.upper() for a in a]
+y = [a.upper() for a in a] 
 
 print(y)
 
@@ -35,6 +35,6 @@ print(y)
 x = input().split(',')
 
 # What do you need between the square brackets to make it work?
-y = [x for x in ]
+y = [0 ,]
 
 print(y)
