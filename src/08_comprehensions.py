@@ -37,4 +37,6 @@ x = input().split(',')
 # What do you need between the square brackets to make it work?
 y = [0 ,]
 
+#it is a string! 
+
 print(y)

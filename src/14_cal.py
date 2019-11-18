@@ -22,3 +22,7 @@ and does the following:
 import sys
 import calendar
 from datetime import datetime
+
+c = input('14_cal.py month [year]')
+print(c) 
+

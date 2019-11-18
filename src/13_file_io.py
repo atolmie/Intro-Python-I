@@ -8,7 +8,9 @@ https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
 # Open up the "foo.txt" file (which already exists) for reading
 # Print all the contents of the file, then close the file
 
-# YOUR CODE HERE
+#your code here f = open('foo.txt', 'r')
+
+
 
 # Open up a file called "bar.txt" (which doesn't exist yet) for
 # writing. Write three lines of arbitrary content to that file,
